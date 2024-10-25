@@ -5,7 +5,7 @@
 - 📈 Improving problem-solving skills and building projects for my portfolio.
 
 ### 🔗 Find me here:
-- LinkedIn: [Md. Shahruk](www.linkedin.com/in/md-shahruk)
+- LinkedIn: [Md. Shahruk](https://www.linkedin.com/in/md-shahruk/)
 - LeetCode: [mdShahruk](https://leetcode.com/u/mdShahruk/)
 
 
